@@ -12,5 +12,3 @@ Requirements:
 You will need to download the UK house prices data directly from HM Land registry:
 http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-complete.csv
 
-feature-branch version
-
